@@ -1,2 +1,5 @@
 # hello-world
-test project
+
+Hello.
+
+This is my sandbox project to test Git out.
